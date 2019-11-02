@@ -252,7 +252,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_3A469958: {r: 1, g: 1, b: 1, a: 0}
-    - Color_E5A6404F: {r: 1, g: 1, b: 1, a: 0}
+    - Color_E5A6404F: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_B5B15E01: {r: 5, g: 5, b: 0, a: 0}
     - Vector2_B615209B: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}

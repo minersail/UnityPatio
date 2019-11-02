@@ -233,7 +233,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_E5A6404F: {r: 1, g: 1, b: 1, a: 0}
-    - Color_EBECCED5: {r: 0, g: 0, b: 0, a: 0.78431374}
+    - Color_EBECCED5: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0.78431374}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
